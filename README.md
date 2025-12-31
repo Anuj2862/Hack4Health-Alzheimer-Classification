@@ -78,5 +78,8 @@ The preprocessing pipeline ensures consistency across all MRI scans:
 
 ## Contributors
 
--   **Anuj** - *Lead Developer*
--   *Hack4Health Team*
+-   Anuj Gardi
+-   Saurabh Gangurde
+-   Pranay Gujar
+
+*Code crashers team*
